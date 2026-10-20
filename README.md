@@ -1,6 +1,6 @@
 Hi Payload, please read this before you touch the Github - Kelvin
 
-**Rules for pulling/uploading CAD**
+**RULES FOR PULLING/UPLOADING CAD/FILES**
 - **Always pull before you start** your own work so you have the most updated CAD
 - **Always push after each CAD session**, even if it's not fully done
   - There should be **no errors** in both parts and assemblies; if there are I will slime you out
